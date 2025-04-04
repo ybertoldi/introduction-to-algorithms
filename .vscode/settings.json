@@ -1,0 +1,118 @@
+{
+    "workbench.colorCustomizations": {
+    "editor.background": "#21222f",
+    "sideBar.background": "#21222f",
+    "activityBar.background": "#21222f",
+    "actionBar.toggledBackground": "#21222f",
+    "activityBarTop.background": "#21222f",
+    "statusBar.background": "#21222f",
+    "titleBar.activeBackground": "#21222f",
+    "titleBar.inactiveBackground": "#21222f",
+    "panel.background": "#21222f",
+    "editorGroupHeader.tabsBackground": "#21222f",
+    "editorGroupHeader.tabsBorder": "#21222f",
+    "editorGroup.border": "#21222f",
+    "editorGroup.dropBackground": "#21222f",
+    "editorGroupHeader.noTabsBackground": "#21222f",
+    "editorGroupHeader.border": "#21222f",
+    "editorGroup.focusedEmptyBorder": "#21222f",
+    "editorGroup.emptyBackground": "#21222f",
+    "editorGroupHeader.tabsEmptyBackground": "#21222f",
+    "tab.activeBackground": "#303148",
+    "tab.inactiveBackground": "#21222f",
+    "tab.inactiveForeground": "#555875",
+    "tab.border": "#21222f",
+    "tab.activeBorder": "#21222f",
+    "tab.unfocusedActiveBorder": "#21222f",
+    "tab.activeBorderTop": "#21222f",
+    "tab.unfocusedActiveBorderTop": "#21222f",
+    "tab.hoverBackground": "#21222f",
+    "tab.unfocusedHoverBackground": "#21222f",
+    "tab.hoverBorder": "#21222f",
+    "tab.unfocusedHoverBorder": "#21222f",
+    "tab.activeModifiedBorder": "#21222f",
+    "tab.inactiveModifiedBorder": "#21222f",
+    "tab.unfocusedActiveModifiedBorder": "#21222f",
+    "tab.unfocusedInactiveModifiedBorder": "#21222f",
+    "dropdown.background": "#21222f",
+    "input.background": "#2e3045",
+    "input.border": "#3e425e",
+    "inputOption.activeBackground": "#21222f",
+    "inputOption.activeBorder": "#21222f",
+    "inputOption.activeForeground": "#e5e9ff",
+    "button.background": "#2344ff",
+    "button.foreground": "#ffffff",
+    "terminal.background": "#21222f",
+    "editorLineNumber.activeForeground": "#fdad51",
+    "menu.background": "#21222f",
+    "editorPane.background": "#21222f",
+    "editor.selectionBackground": "#383c52",
+    "panel.border": "#383c52",
+    "sideBar.border": "#383c52",
+    "scrollbar.shadow": "#21222f",
+    "editorStickyScroll.border": "#2d3042",
+    "editor.lineHighlightBackground": "#2d3042",
+    "editorGutter.background": "#21222f",
+    "editorGutter.modifiedBackground": "#21222f",
+    "editorGutter.addedBackground": "#21222f",
+    "editorGutter.deletedBackground": "#21222f",
+    "statusBarItem.remoteBackground": "#9190ff",
+    "focusBorder": "#3a3b4b",
+    "scrollbarSlider.background": "#383c52",
+    "scrollbarSlider.activeBackground": "#535a7c",
+    "scrollbarSlider.hoverBackground": "#470c69"
+    },
+
+    "editor.scrollbar.verticalScrollbarSize": 10,
+    "editor.scrollbar.horizontalScrollbarSize": 10,
+    "editor.scrollbar.vertical": "visible",
+    "editor.scrollbar.horizontal": "visible",
+
+    "apc.electron": {
+        "backgroundColor": "#1a1a1a",
+        "frame": true,
+        "transparent": true,
+        "titleBarStyle": "hiddenInset",
+        "vibrancy": "ultra-dark",
+        "trafficLightPosition": {
+            "x": 15,
+            "y": 13
+        },
+        "trafficLightPositionRight": {
+            "x": 15,
+            "y": 13
+        }
+    },
+
+    "workbench.iconTheme": "catppuccin-mocha",
+    "workbench.sideBar.location": "right",
+
+    "apc.stylesheet": {
+        ".tabs-container .tab.active": {
+            "border-radius": "7px !important"
+        },
+        ".scrollbar": {
+            "background": "#21222f !important"
+        }
+    },
+
+    "css.completion.triggerPropertyValueCompletion": false,
+    "github.copilot.chat.terminalChatLocation": "terminal",
+    "breadcrumbs.enabled": false,
+    "workbench.editor.editorActionsLocation": "hidden",
+    "window.density.editorTabHeight": "compact",
+    "editor.minimap.enabled": false,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "workbench.activityBar.location": "bottom",
+    "workbench.layoutControl.enabled": false,
+    "window.commandCenter": false,
+    "apc.menubar.compact": true,
+    "C_Cpp.errorSquiggles": "disabled"
+}
+
+
+
+
