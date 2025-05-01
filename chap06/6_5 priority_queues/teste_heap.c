@@ -17,4 +17,11 @@ int main() {
     mostra_heap(H);
     printf("\n");
   }
+
+  for (int i = 0; i < 5; i++) {
+    printf("tirando o primeiro item\n");
+    max_heap_pop(&H);
+    mostra_heap(H);
+    printf("\n");
+  }
 }

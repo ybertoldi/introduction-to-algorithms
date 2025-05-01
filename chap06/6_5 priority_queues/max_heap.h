@@ -14,4 +14,3 @@ heap build_min_heap(int arr[], int n);
 int max_heap_maximum(heap *A);
 int max_heap_pop(heap *A);
 void max_heap_insert(heap *A, int val);
-void mostra_heap(heap h);
